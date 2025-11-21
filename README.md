@@ -1,0 +1,11 @@
+||الاسم|| مصطفى محمد سليمان علي
+ # flutter-complete-registeraion-form
+هذا التطبيق عبارة عن نموذج تسجيل متكامل (Registration Form App) تم بناؤه باستخدام Flutter بهدف توفير تجربة مستخدم سلسة وسهلة لإدخال البيانات الشخصية.
+تصميم نظيف: واجهة مستخدم بسيطة وواضحة (Clean UI) تركز على تجربة الإدخال السلسة والمريح
+- التكنولوجيا المستخدمة
+
+لغة البرمجة: Dart
+
+الإطار: Flutter SDK
+
+    https://github.com/Mostafamohammedali/flutter-form.git
